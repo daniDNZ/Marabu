@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/daniDNZ/Marabu/static/css/main.022a1698.css",
+    "main.js": "/daniDNZ/Marabu/static/js/main.eb010d29.js",
+    "static/media/subheadline2-tablet.png": "/daniDNZ/Marabu/static/media/subheadline2-tablet.a6487f0c17a7a8ff3692.png",
+    "static/media/subheadline2-mobile.png": "/daniDNZ/Marabu/static/media/subheadline2-mobile.bf67c4ad63e022957b08.png",
+    "static/media/subheadline1-tablet-2.jpg": "/daniDNZ/Marabu/static/media/subheadline1-tablet-2.9c1a03d3baac1cc97ade.jpg",
+    "static/media/subheadline1-mobile-2.jpg": "/daniDNZ/Marabu/static/media/subheadline1-mobile-2.418d32279c0d90daa08b.jpg",
+    "static/media/headline2-tablet.jpg": "/daniDNZ/Marabu/static/media/headline2-tablet.c68bced1658ac31ffd1d.jpg",
+    "static/media/headline2-mobile.jpg": "/daniDNZ/Marabu/static/media/headline2-mobile.6ac718530762ddc2f01b.jpg",
+    "static/media/bootstrap-icons.woff?": "/daniDNZ/Marabu/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/daniDNZ/Marabu/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/daniDNZ/Marabu/index.html",
+    "main.022a1698.css.map": "/daniDNZ/Marabu/static/css/main.022a1698.css.map",
+    "main.eb010d29.js.map": "/daniDNZ/Marabu/static/js/main.eb010d29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022a1698.css",
+    "static/js/main.eb010d29.js"
+  ]
+}
