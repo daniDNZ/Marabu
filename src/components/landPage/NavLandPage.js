@@ -2,6 +2,7 @@ import { HandleLogin } from "../UserValidation";
 import { NavLink } from "react-router-dom";
 import { useContext } from "react";
 import { UserContext } from "../../context/context";
+import marabuBlack from "../../img/marabu-black.png";
 
 function DropDownLogin() {
   const { updateUser } = useContext(UserContext);
@@ -34,7 +35,7 @@ function NavLandPage() {
       <header className="header-land-page px-5 py-3">
         <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
           <div className="container-fluid">
-            <a className="navbar-brand" href="#"><img src="/img/marabu-black.png" height="30em"/></a>
+            <a className="navbar-brand" href="#"><img src={marabuBlack} height="30em"/></a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="#navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>

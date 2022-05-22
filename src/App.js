@@ -11,7 +11,7 @@ import jwt_decode from 'jwt-decode';
 
 
 function App() {
-  let component = <Navigate to='/login' />
+  let component = <Navigate to='/Marabu/login' />
 
   if (localStorage.getItem('token') && jwt_decode(localStorage.getItem('token')).roles.includes('ROLE_STAFF')) {
     component = <Dashboard />
@@ -21,10 +21,10 @@ function App() {
     <UserProvider>
       <BrowserRouter>
         <Routes>
-          <Route exact path="/" element={<LandPage />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/logout" element={<Logout />} />
-          <Route path="/turdus/*" element={component} />
+          <Route exact path="/Marabu/" element={<LandPage />} />
+          <Route path="/Marabu/login" element={<Login />} />
+          <Route path="/Marabu/logout" element={<Logout />} />
+          <Route path="/Marabu/turdus/*" element={component} />
         </Routes>
       </BrowserRouter>
     </UserProvider>

@@ -4,6 +4,7 @@ import DashboardNavContent from "./DashboardNavContent";
 import { useContext } from "react";
 import { UserContext } from "../context/context";
 import global from "../global";
+import favicon from "../img/favicon.ico";
 
 function DashboardNavigation() {
 
@@ -38,7 +39,7 @@ function DashboardNavigation() {
 
           <div className="flex-shrink-1">
             <a href="/turdus/dashboard" className="d-flex align-items-center col-lg-4 mb-0 mb-lg-0 link-dark text-decoration-none">
-              <img alt="Foto de perfil" src="/favicon.ico" height="30em"></img>
+              <img alt="Foto de perfil" src={favicon} height="30em"></img>
               <span className="d-none d-sm-inline"><h3 className="my-0 mx-1">arabú.Turdus</h3></span>
             </a>
           </div>
