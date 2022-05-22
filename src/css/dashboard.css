@@ -1,0 +1,25 @@
+#header-dashboard{
+    z-index: 1050;
+}
+
+[class*='container'] {
+    background-clip: content-box;
+}
+
+.row [class*='col'] {
+    background-clip: content-box;
+}
+
+#dashboard-sidebar {
+    min-width: 180px;
+    max-width: 210px;
+}
+
+.nav-item {
+    background-clip: content-box;
+}
+.make-me-sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0; 
+}
