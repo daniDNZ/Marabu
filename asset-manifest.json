@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Marabu/static/css/main.e338b5fa.css",
-    "main.js": "/Marabu/static/js/main.eb010d29.js",
+    "main.js": "/Marabu/static/js/main.cade2911.js",
     "static/media/subheadline2-tablet.png": "/Marabu/static/media/subheadline2-tablet.a6487f0c17a7a8ff3692.png",
     "static/media/subheadline2-mobile.png": "/Marabu/static/media/subheadline2-mobile.bf67c4ad63e022957b08.png",
     "static/media/subheadline1-tablet-2.jpg": "/Marabu/static/media/subheadline1-tablet-2.9c1a03d3baac1cc97ade.jpg",
@@ -12,10 +12,10 @@
     "static/media/bootstrap-icons.woff2?": "/Marabu/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/Marabu/index.html",
     "main.e338b5fa.css.map": "/Marabu/static/css/main.e338b5fa.css.map",
-    "main.eb010d29.js.map": "/Marabu/static/js/main.eb010d29.js.map"
+    "main.cade2911.js.map": "/Marabu/static/js/main.cade2911.js.map"
   },
   "entrypoints": [
     "static/css/main.e338b5fa.css",
-    "static/js/main.eb010d29.js"
+    "static/js/main.cade2911.js"
   ]
 }
